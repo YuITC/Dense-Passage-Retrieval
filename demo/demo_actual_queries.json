@@ -1,0 +1,38 @@
+[
+    {
+        "query": "Who was the first President of Vietnam?",
+        "answer": ["Ho Chi Minh", "Hồ Chí Minh"]
+    },
+    {
+        "query": "Who founded the Communist Party of Vietnam?",
+        "answer": ["Nguyen Ai Quoc", "Ho Chi Minh", "Nguyễn Ái Quốc", "Hồ Chí Minh"]
+    },
+    {
+        "query": "Who is the inventor of iphone?",
+        "answer": ["Steve Jobs"]
+    },
+    {
+        "query": "In which year was the Paris Peace Accords to end the Vietnam War signed?",
+        "answer": ["1973"]
+    },
+    {
+        "query": "In which year did the historic Battle of Dien Bien Phu end in victory?",
+        "answer": ["1954"]
+    },
+    {
+        "query": "The Temple of Literature (Van Mieu), Vietnam's first university, was built during which dynasty?",
+        "answer": ["The Ly Dynasty", "Lý"]
+    },
+    {
+        "query": "What is the speed of light?",
+        "answer": ["299,792,458", "299 792 458"]
+    },
+    {
+        "query": "What is ESL mean?",
+        "answer": ["English-as-a-second-language"]
+    },
+    {
+        "query": "What is the latest iphone version?",
+        "answer": ["XS", "XS max", "XR"]
+    }
+]

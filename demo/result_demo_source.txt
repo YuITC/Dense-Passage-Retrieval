@@ -1,0 +1,333 @@
+====================================================================================================
+Query 1: Who was the first President of Vietnam?
+Answer: ['Ho Chi Minh', 'Hồ Chí Minh']
+====================================================================================================
+
+Retrieval results:
+
+Rank [1] - Score [81.39] - Title [President of Vietnam] [May contain answer]
+assumes the office of acting president until the President resumes duty, or until the election of a new president. The powers and prestige of the office of President have varied over the years. For instance, while the inaugural president, Hồ Chí Minh, was also the Chairman of the Communist Party, making him (in that capacity) the first ranking member of the Politburo, the highest decision-making body in Vietnam, his successor, Tôn Đức Thắng, served as a symbolic figure along with the General Secretary Lê Duẩn. Since Trường Chinh's ascension to the presidency, the President has been ranked 1st (he was
+
+Rank [2] - Score [80.56] - Title [Ngo Dinh Diem] [May not contain answer]
+Ngo Dinh Diem Ngô Đình Diệm (; ; 3 January 1901 – 2 November 1963) was a South Vietnamese politician. A former mandarin of the Nguyễn dynasty, he was named Prime Minister of the State of Vietnam by Head of State Bảo Đại in 1954. In October 1955, after winning a heavily rigged referendum, he deposed Bảo Đại and established the first Republic of Vietnam (RVN), with himself as president. He was a leader of the Catholic element and was opposed by Buddhists. In November 1963, after constant Buddhist protests and non-violent resistance, Diệm was assassinated during a CIA-backed coup
+
+Rank [3] - Score [80.31] - Title [President of Vietnam] [May contain answer]
+of President. The importance of the President has not remained constant throughout Vietnamese history. For instance, while Hồ Chí Minh was ranked as first member of the Politburo, the highest decision-making body in Vietnam, his successor, Tôn Đức Thắng, was a symbolic figure with little power. The post of head of state was strengthened in the 1980 Constitution by the appointment of Trường Chinh who was, by order of precedence, the second-highest-ranking member in the Politburo, behind Lê Duẩn. The office of President retained the second highest rank in the Politburo order of precedence until Nguyễn Minh Triết was appointed
+
+Rank [4] - Score [80.07] - Title [Gia Long] [May not contain answer]
+Gia Long Gia Long (; 8 February 1762 – 3 February 1820), born Nguyễn Phúc Ánh or Nguyễn Ánh), was the first Emperor of the Nguyễn dynasty of Vietnam. Unifying what is now modern Vietnam in 1802, he founded the Nguyễn dynasty, the last of the Vietnamese dynasties. A nephew of the last Nguyễn lord who ruled over southern Vietnam, Nguyễn Ánh was forced into hiding in 1777 as a fifteen-year-old when his family was slain in the Tây Sơn revolt. After several changes of fortune in which his loyalists regained and again lost Saigon, he befriended the French Catholic
+
+Rank [5] - Score [79.71] - Title [History of Vietnam] [May not contain answer]
+Xuân, the Tây Sơn capital. Nguyễn Ánh finally won the war in 1802, when he sieged Thăng Long (Hanoi) and executed Nguyễn Huệ's son, Nguyễn Quang Toản, along with many Tây Sơn generals and officials. Nguyễn Ánh ascended the throne and called himself Emperor Gia Long. Gia is for Gia Định, the old name of Saigon; Long is for Thăng Long, the old name of Hanoi. Hence Gia Long implied the unification of the country. The Nguyễn dynasty lasted until Bảo Đại's abdication in 1945. As China for centuries had referred to Đại Việt as Annam, Gia Long asked the
+
+Rank [6] - Score [79.59] - Title [Prime Minister of Vietnam] [May contain answer]
+Hung in 1988, the prime minister has been ranked 3rd in the order of precedence of the Communist Party's Politburo, the highest decision-making body in Vietnam. Ho Chi Minh, who also served as the country's President, was appointed Vietnam's first prime minister in 1946 by the National Assembly, after having served months as Acting Chairman of the Provisional Government and foreign minister in the aftermath of the 1945 August Revolution. Both the 1946 and 1959 Constitutions state that the National Assembly had the power to appoint and relieve the prime minister of his duties. The prime minister presided over the
+
+Rank [7] - Score [79.49] - Title [President of Vietnam] [May contain answer]
+sometimes also chairman of the party) or 2nd in the order of precedence of the Communist Party's Politburo except President Nguyễn Minh Triết ranked fourth and President Võ Chí Công ranked third. The current President is Nguyễn Phú Trọng, who was elected by the National Assembly in October 2018 after former President Trần Đại Quang died in office. Trọng is the third person to concurrently serve as head of the Party and State, with the other two people to have done so being Hồ Chí Minh and Trường Chinh. Hồ Chí Minh was appointed Vietnam's first president in 1946 by
+
+Rank [8] - Score [79.45] - Title [History of Vietnam] [May not contain answer]
+Ngô Quyền's untimely death after a short reign resulted in a power struggle for the throne, resulting in the country's first major civil war, the upheaval of Twelfth Warlords (Loạn Thập Nhị Sứ Quân). The war lasted from 944 to 968 until the clan led by Đinh Bộ Lĩnh defeated the other warlords, unifying the country. Đinh Bộ Lĩnh founded the Đinh dynasty and proclaimed himself Đinh Tiên Hoàng (Đinh the Majestic Emperor) and renamed the country from Tĩnh Hải quân to Đại Cồ Việt (literally "Great Viet Land"), with its capital in Hoa Lư (modern-day Ninh Bình Province). The
+
+Rank [9] - Score [79.20] - Title [Vietnam War] [May not contain answer]
+to stabilise with the coming to power of prime minister Air Marshal Nguyễn Cao Kỳ and figurehead Chief of State, General Nguyễn Văn Thiệu, in mid-1965 at the head of a military junta. This ended a series of coups that had happened more than once a year. In 1967, Thieu became president with Ky as his deputy, after rigged elections. Although they were nominally a civilian government, Ky was supposed to maintain real power through a behind-the-scenes military body. However, Thieu outmanoeuvred and sidelined Ky by filling the ranks with generals from his faction. Thieu was also accused of murdering
+
+Rank [10] - Score [78.98] - Title [History of Vietnam] [May contain answer]
+Journal of Conflict Resolution" covering Vietnam-China relations from 1365 to 1841, the relations could be characterized as a "hierarchic tributary system". The study found that "the Vietnamese court explicitly recognized its unequal status in its relations with China through a number of institutions and norms. Vietnamese rulers also displayed very little military attention to their relations with China. Rather, Vietnamese leaders were clearly more concerned with quelling chronic domestic instability and managing relations with kingdoms to their south and west." In September 1945, Hồ Chí Minh proclaimed the Democratic Republic of Vietnam (DRV) and held the position of chairman (Chủ
+
+====================================================================================================
+Query 2: Who founded the Communist Party of Vietnam?
+Answer: ['Nguyen Ai Quoc', 'Ho Chi Minh', 'Nguyễn Ái Quốc', 'Hồ Chí Minh']
+====================================================================================================
+
+Retrieval results:
+
+Rank [1] - Score [90.52] - Title [Communist Party of Vietnam] [May contain answer]
+existed in parallel with Thanh Niên, and saw itself as a rival to the latter. The two warring splinters of Thanh Niên joined with individual members of a third Marxist group called the Communist Party of Vietnam, founded by Hồ Chí Minh at a "Unification Conference" held in Hong Kong from 3–7 February 1930. At a later conference, the party was renamed the Indochinese Communist Party (Vietnamese: "Đông Dương Cộng sản Đảng", often abbreviated to ICP). During its first five years of existence, the ICP attained a membership of about 1500 and had large contingent of sympathizers. Despite the group's
+
+Rank [2] - Score [90.32] - Title [Communist Party of Vietnam] [May contain answer]
+either the Central Committee or the party's National Congress. , the 12th Politburo comprises 19 members. In most of the cases, the Vietnamese press and people refer to the Communist Party of Vietnam as Đảng ("Party") or Đảng ta ("our Party"). The Communist Party traces its lineage back to 1925, when Hồ Chí Minh established the Vietnamese Revolutionary Youth League, commonly referred to as Thanh Niên. Thanh Niên sought to make use of patriotism in an effort to end the colonial occupation of the country by France. The group sought political and social objectives—national independence and the redistribution of land
+
+Rank [3] - Score [90.20] - Title [Communist Party of Vietnam] [May contain answer]
+organization, the Indochinese Communist Party remained very small through the war years, with an estimated membership of between 2,000 and 3,000 in 1944. Following the August Revolution (1945) organized by the Viet Minh, Hồ Chí Minh became Chairman of the Provisional Government (Premier of the Democratic Republic of Vietnam) and issued a Proclamation of Independence of the Democratic Republic of Vietnam. Although he convinced Emperor Bảo Đại to abdicate, his government was not recognized by any country. He repeatedly petitioned American President Harry S. Truman for support for Vietnamese independence, citing the Atlantic Charter, but Truman did not respond. After
+
+Rank [4] - Score [90.01] - Title [Communist Party of Vietnam] [May not contain answer]
+to working peasants. Thanh Niên was designed to prepare the ground for a revolutionary armed struggle against the French occupation. In 1928 the headquarters of the Thanh Niên organization in Canton was forced underground by Chinese nationalists led by Kuomintang (KMT). This led to a national breakdown within the organization, which led indirectly to a split within Thanh Niên. On 17 June 1929, more than 20 delegates from cells throughout the Tonkin region held a conference in Hanoi, where they declared the dissolution of Thanh Nien and the establishment of a new organization called the Communist Party of Indochina (ICP).
+
+Rank [5] - Score [89.76] - Title [History of the Communist Party of Vietnam] [May contain answer]
+History of the Communist Party of Vietnam This article describes the history of the Communist Party of Vietnam, which ruled all or part of Vietnam beginning in 1945. The Communist Party of Vietnam (CPV) originated in 1925. In the spring of that year the young man born Nguyễn Sinh Cung—under the pseudonym Nguyễn Ái Quốc (Nguyen the Patriot) but best known as Hồ Chí Minh (Ho the Enlightened One)—established the Vietnamese Revolutionary Youth Association ( "Việt Nam Thanh Niên Kách Mệnh Hội"—commonly: "Thanh Niên") a Communist political organization. Thanh Nien sought to employ patriotism to end the colonial occupation of
+
+Rank [6] - Score [89.35] - Title [History of the Communist Party of Vietnam] [May contain answer]
+the country by France. The group sought political and social objectives—both national independence and redistribution of land to working peasants. The establishment of Thanh Niên was preceded by the arrival of Communist International functionary Ho Chi Minh in Canton, China from Moscow in December 1924. Ho was ostensibly sent to China to work as a secretary and interpreter to Mikhail Borodin, but he actually set to work almost immediately attempting to transform the existing Vietnamese patriotic movement towards revolutionary ends. Ho managed to convert a small group of émigré intellectuals called Tam Tam Xa (Heart-to-Heart Association) to revolutionary socialism and
+
+Rank [7] - Score [89.33] - Title [Communist Party of Vietnam] [May contain answer]
+Trường Chinh, Phạm Văn Đồng, and Võ Nguyên Giáp emerged. Together with Ho Chi Minh, these would provide a unified leadership over the next four decades, Party leader Hồ Chí Minh returned to Vietnam in February 1941 and established a military organization known as the League for the Independence of Vietnam (Vietnamese: "Việt Nam Độc Lập Đồng Minh Hội", commonly referred to as "Vietminh"). It was the most uncompromising fighting force against the Japanese occupation, and gained popular recognition and legitimacy in an environment that would develop into a political vacuum. Despite its position as the core of the Vietminh
+
+Rank [8] - Score [89.33] - Title [Communist Party of Vietnam] [May not contain answer]
+was elected its General Secretary. In 1936, Hà Huy Tập was appointed General Secretary instead of Lê Hồng Phong, who returned to the country to restore the Central Committee. The Second World War drastically weakened the grip of France on Indochina. The fall of France to Nazi Germany in June 1940 and the subsequent collaboration of Vichy France with the Axis powers of Germany and Japan served to delegitimize French claims of sovereignty. The European war made colonial governance from France impossible and Indochina was occupied by Japanese forces. At the beginning of the war, the Indochinese Communist Party instructed
+
+Rank [9] - Score [89.00] - Title [People's Revolutionary Party (Vietnam)] [May not contain answer]
+People's Revolutionary Party (Vietnam) The People's Revolutionary Party of Vietnam () was a political party in South Vietnam established in 1962. It provided leadership for the Viet Cong uprising. In 1976, the party was merged with the Workers' Party of North Vietnam to form the Communist Party of Vietnam. The PRP was founded on January 1, 1962. Its foundation was publicly announced by Radio Hanoi on January 18, 1962. The stated goals of the party was to combat imperialism, feudalism and colonialism. PRP was not an explicitly communist party, but according to the January 18 Radio Hanoi broadcast, it represented
+
+Rank [10] - Score [89.00] - Title [People's Revolutionary Party (Vietnam)] [May not contain answer]
+People's Revolutionary Party (Vietnam) The People's Revolutionary Party of Vietnam () was a political party in South Vietnam established in 1962. It provided leadership for the Viet Cong uprising. In 1976, the party was merged with the Workers' Party of North Vietnam to form the Communist Party of Vietnam. The PRP was founded on January 1, 1962. Its foundation was publicly announced by Radio Hanoi on January 18, 1962. The stated goals of the party was to combat imperialism, feudalism and colonialism. PRP was not an explicitly communist party, but according to the January 18 Radio Hanoi broadcast, it represented
+
+====================================================================================================
+Query 3: Who is the inventor of iphone?
+Answer: ['Steve Jobs']
+====================================================================================================
+
+Retrieval results:
+
+Rank [1] - Score [77.33] - Title [Imran Chaudhri] [May not contain answer]
+Imran Chaudhri Imran Chaudhri (born 1973) is a British-American designer, best known for inventing the "groundbreaking user interface" and interactions of the iPhone. While at Apple from 1995 to 2017, he had key roles as a user interface designer and director of design working on products including the Mac, iPod, iPhone, iPad, Apple TV and Apple Watch. Chaudhri was born in London, England. After interning with the Apple Advanced Technology Group, he began working there full-time. Chaudhri arrived at Apple in 1995, and spent 19 years with the Human Interface team, ultimately becoming the team's director of design. He and
+
+Rank [2] - Score [76.66] - Title [History of iPhone] [May contain answer]
+History of iPhone The history of iPhone began with a request from Apple Inc. CEO Steve Jobs to the company's engineers, asking them to investigate the use of touchscreen devices and tablet computers (which later came to fruition with the iPad). Many have noted the device's similarities to Apple's previous touch-screen portable device, the Newton MessagePad. Like the Newton, the iPhone is nearly all screen. Its form factor is credited to Apple's Chief Design Officer, Jonathan Ive. In April 2003, at the "All Things Digital" executive conference, Jobs expressed his belief that tablet PCs and traditional PDAs were not good
+
+Rank [3] - Score [76.63] - Title [Frank J. Canova] [May not contain answer]
+Frank J. Canova Francis James Canova Jr. (born 23 December 1956) is an American electronics designer who originated the idea for the IBM Simon and has thus been described as the inventor of the smartphone. Frank Canova was born in Wilmington, Delaware, raised in Green Cove Springs, Florida, and attended Clay High School, graduating in 1974. He received his advanced education at the Florida Institute of Technology, graduating with a BSc in electrical engineering in 1978. Canova was working at IBM when he realised that chip-and-wireless technology was small enough to use in a hand-held device. His boss, Jerry Merckel,
+
+Rank [4] - Score [76.52] - Title [IPhone] [May not contain answer]
+current flagship devices: Apple has filed more than 200 patent applications related to the technology behind the iPhone. LG Electronics claimed the design of the iPhone was copied from the LG Prada. Woo-Young Kwak, head of LG Mobile Handset R&D Center, said at a press conference: "we consider that Apple copied Prada phone after the design was unveiled when it was presented in the iF Design Award and won the prize in September 2006." Conversely, the iPhone has also inspired its own share of high-tech clones. On September 3, 1993, Infogear filed for the US trademark "I PHONE" and on
+
+Rank [5] - Score [76.38] - Title [George Hotz] [May not contain answer]
+George Hotz George Francis Hotz (born October 2, 1989), alias geohot, is an American hacker and creative consumer known for unlocking the iPhone, allowing the phone to be used with other wireless carriers, contrary to AT&T's and Apple's intentions. He developed the limera1n jailbreak tool and bootrom exploit for iOS. He is also noted for his technical efforts and publicity with reverse engineering the PlayStation 3 video game console, and for subsequently being sued by and settling with Sony. As of September 2015, he is working on his vehicle automation machine learning company comma.ai. He attended the Bergen County Academies,
+
+Rank [6] - Score [76.09] - Title [IPhone] [May contain answer]
+at the time. With its capacitive touchscreen and consumer-friendly design, the iPhone fundamentally changed the mobile industry, with Steve Jobs proclaiming in 2007, that the phone was not just a communication tool but a way of life. The dominant mobile operating systems at the time such as Symbian, BlackBerry OS, and Windows Mobile were not designed to handle additional tasks beyond communication and basic functions. These operating systems never focused on applications and developers, and due to infighting among manufacturers as well as the complexity of developing on their low-memory hardware, they never developed a thriving ecosystem like Apple's App
+
+Rank [7] - Score [76.07] - Title [IOS] [May contain answer]
+availability of an update, and if one is available, will prompt the user to permit its automatic installation. In 2005, when Steve Jobs began planning the iPhone, he had a choice to either "shrink the Mac, which would be an epic feat of engineering, or enlarge the iPod". Jobs favored the former approach but pitted the Macintosh and iPod teams, led by Scott Forstall and Tony Fadell, respectively, against each other in an internal competition, with Forstall winning by creating the iPhone OS. The decision enabled the success of the iPhone as a platform for third-party developers: using a well-known
+
+Rank [8] - Score [76.05] - Title [Imran Chaudhri] [May not contain answer]
+Developers Conference keynote event in 2016. He and Bethany Bongiorno demonstrated new features in Apple's Messages app that launched in iOS 10. The lineup was noted for being more diverse than at previous WWDC events. Chaudhri left Apple in early 2017, to form his own hardware/software company. Imran Chaudhri Imran Chaudhri (born 1973) is a British-American designer, best known for inventing the "groundbreaking user interface" and interactions of the iPhone. While at Apple from 1995 to 2017, he had key roles as a user interface designer and director of design working on products including the Mac, iPod, iPhone, iPad, Apple
+
+Rank [9] - Score [75.57] - Title [History of iPhone] [May contain answer]
+mobile phone to use iTunes. Jobs was unhappy with the ROKR, feeling that having to compromise with a non-Apple designer (Motorola) prevented Apple from designing the phone they wanted to make. In September 2006, Apple discontinued support for the ROKR, and released a version of iTunes that included references to an as-yet unknown mobile phone that could display pictures and video. On January 9, 2007, Steve Jobs announced iPhone at the Macworld convention, receiving substantial media attention. Jobs announced that the first iPhone would be released later that year. On June 29, 2007, the first iPhone was released. On June
+
+Rank [10] - Score [75.41] - Title [History of iPhone] [May contain answer]
+however, had been compromised prior to release and new security measures were quickly bypassed. On February 8, 2008, Geohot released the first full software unlock for the 1.1.2 & 1.1.3 OTB iPhones. History of iPhone The history of iPhone began with a request from Apple Inc. CEO Steve Jobs to the company's engineers, asking them to investigate the use of touchscreen devices and tablet computers (which later came to fruition with the iPad). Many have noted the device's similarities to Apple's previous touch-screen portable device, the Newton MessagePad. Like the Newton, the iPhone is nearly all screen. Its form factor
+
+====================================================================================================
+Query 4: In which year was the Paris Peace Accords to end the Vietnam War signed?
+Answer: ['1973']
+====================================================================================================
+
+Retrieval results:
+
+Rank [1] - Score [81.72] - Title [Paris Peace Accords] [May contain answer]
+Paris Peace Accords The Paris Peace Accords, officially titled the Agreement on Ending the War and Restoring Peace in Vietnam, was a peace treaty signed on January 27, 1973, to establish peace in Vietnam and end the Vietnam War. The treaty included the governments of the Democratic Republic of Vietnam (North Vietnam), the Republic of Vietnam (South Vietnam), and the United States, as well as the Provisional Revolutionary Government (PRG) that represented indigenous South Vietnamese revolutionaries. US ground forces up to that point had been sidelined with deteriorating morale, and gradually withdrawn to coastal regions, not partaking in offensive operations
+
+Rank [2] - Score [79.98] - Title [Paris Peace Accords] [May not contain answer]
+or much direct combat for the preceding two-year period. The Paris Agreement Treaty would in effect remove all remaining US Forces, including air and naval forces in exchange for Hanoi's POWs. Direct U.S. military intervention was ended, and fighting between the three remaining powers temporarily stopped for less than a day. The agreement was not ratified by the United States Senate. The negotiations that led to the accord began in 1968, after various lengthy delays. As a result of the accord, the International Control Commission (ICC) was replaced by the International Commission of Control and Supervision (ICCS) to fulfill the
+
+Rank [3] - Score [79.78] - Title [Paris Peace Accords] [May contain answer]
+agreement. The main negotiators of the agreement were United States National Security Advisor Henry Kissinger and North Vietnamese politburo member Lê Đức Thọ; the two men were awarded the 1973 Nobel Peace Prize for their efforts, although Lê Đức Thọ refused to accept it. The agreement's provisions were immediately frequently broken with no response from the United States. Fighting broke out in March 1973, and North Vietnamese offenses enlarged their control by the end of the year. Two years later, a massive North Vietnamese offensive conquered South Vietnam. The document began with the statement that "the United States and all
+
+Rank [4] - Score [79.35] - Title [Paris Peace Accords] [May not contain answer]
+operations over the northern portion of the North Vietnam (Operation Rolling Thunder), in order to encourage Hanoi (the perceived locus of the insurgency) to begin negotiations. Although some sources state that the bombing halt decision announced on March 31, 1968 was related to events occurring within the White House and the Presidents counsel of Secretary of Defense Clark Clifford and others rather than the events in New Hampshire. Shortly thereafter, Hanoi agreed to discuss a complete halt of the bombing, and a date was set for representatives of both parties to meet in Paris, France. The sides first met on
+
+Rank [5] - Score [79.14] - Title [Paris Peace Accords] [May contain answer]
+ordered a halt to bombings north of the 20th parallel on December 30. With the U.S. committed to disengagement (and after threats from Nixon that South Vietnam would be abandoned if he did not agree), Thiệu had little choice but to accede. On January 15, 1973, President Nixon announced a suspension of offensive actions against North Vietnam. Kissinger and Thọ met again on January 23 and signed off on a treaty that was basically identical to the draft of three months earlier. The agreement was signed by the leaders of the official delegations on January 27, 1973, at the Hotel
+
+Rank [6] - Score [78.85] - Title [Paris Peace Accords] [May not contain answer]
+retreating Southern forces. Thiệu subsequently resigned, accusing the U.S. of betrayal in a TV and radio address: Saigon fell to the North Vietnamese army supported by Viet Cong units on April 30, 1975. Schlesinger had announced early in the morning of April 29 the beginning of Operation Frequent Wind, which entailed the evacuation of the last U.S. diplomatic, military and civilian personnel from Saigon via helicopter, which was completed in the early morning hours of April 30. Not only did North Vietnam conquer South Vietnam, but the communists were also victorious in Cambodia when the Khmer Rouge captured Phnom Penh
+
+Rank [7] - Score [78.59] - Title [Paris Peace Accords] [May not contain answer]
+Vietnam by announcing that the U.S. would accept a cease-fire in place as a precondition for its military withdrawal. In other words, the U.S. would withdraw its forces from South Vietnam without North Vietnam doing the same. The concession broke a deadlock and resulted in progress in the talks over the next few months. The final major breakthrough came on October 8, 1972. Prior to this, North Vietnam had been disappointed by the results of its "Nguyen Hue Offensive" (known in the West as the Easter Offensive), which had resulted in the United States countering with "Operation Linebacker," a significant
+
+Rank [8] - Score [78.23] - Title [1991 Paris Peace Accords] [May not contain answer]
+late 2012. 1991 Paris Peace Accords The Paris Peace Accords (, ) formally titled Agreements on a Comprehensive Political Settlement of the Cambodia Conflict were signed on October 23, 1991, and marked the official end of the Cambodian–Vietnamese War. The agreement led to the deployment of the first post-Cold War peace keeping mission (UNTAC) and the first ever occasion in which the UN took over as the government of a state. The agreement was signed by nineteen countries. October 23 is a public holiday in Cambodia to commemorate the anniversary of the Paris Peace Agreement. It was announced by the
+
+Rank [9] - Score [78.08] - Title [Paris Peace Accords] [May not contain answer]
+1968 presidential election, Richard Nixon became president of the U.S. in January 1969. He then replaced U.S. ambassador Harriman with Henry Cabot Lodge Jr., who was later replaced by David Bruce. Also that year, the NLF set up a Provisional Revolutionary Government (PRG) to gain government status at the talks. However, the primary negotiations that led to the agreement did not occur at the Peace Conference at all, but were carried out during secret negotiations between Kissinger and Lê Đức Thọ, which began on August 4, 1969. North Vietnam insisted for three years that the agreement could not be concluded
+
+Rank [10] - Score [78.04] - Title [1991 Paris Peace Accords] [May not contain answer]
+1991 Paris Peace Accords The Paris Peace Accords (, ) formally titled Agreements on a Comprehensive Political Settlement of the Cambodia Conflict were signed on October 23, 1991, and marked the official end of the Cambodian–Vietnamese War. The agreement led to the deployment of the first post-Cold War peace keeping mission (UNTAC) and the first ever occasion in which the UN took over as the government of a state. The agreement was signed by nineteen countries. October 23 is a public holiday in Cambodia to commemorate the anniversary of the Paris Peace Agreement. It was announced by the government in
+
+====================================================================================================
+Query 5: In which year did the historic Battle of Dien Bien Phu end in victory?
+Answer: ['1954']
+====================================================================================================
+
+Retrieval results:
+
+Rank [1] - Score [82.21] - Title [Battle of Dien Bien Phu] [May contain answer]
+Battle of Dien Bien Phu The Battle of Dien Bien Phu ( ; , ) was the climactic confrontation of the First Indochina War between the French Union's French Far East Expeditionary Corps and Viet Minh communist-nationalist revolutionaries. It was, from the French view before the event, a set piece battle to draw out the Vietnamese and destroy them with superior firepower. The battle occurred between March and May 1954 and culminated in a comprehensive French defeat that influenced negotiations underway at Geneva among several nations over the future of Indochina. As a result of blunders in French decision-making, the
+
+Rank [2] - Score [78.74] - Title [Battle of Dien Bien Phu] [May contain answer]
+on foot to prison camps; less than half survived the march. Of 10,863 prisoners (including Vietnamese fighting for the French), only 3,290 were officially repatriated four months later; however, the losses figure may include the 3,013 prisoners of Vietnamese origin whose eventual fate is unknown. The garrison constituted roughly a tenth of the total French Union manpower in Indochina. The defeat seriously weakened the position and prestige of the French as previously planned negotiations over the future of Indochina began. The Geneva Conference opened on 8 May 1954, the day after the surrender of the garrison. The resulting agreement partitioned
+
+Rank [3] - Score [78.63] - Title [Battle of Dien Bien Phu] [May not contain answer]
+the British Foreign Secretary Sir Anthony Eden was aware of the possibility of the use of nuclear weapons in that region. In January 1968, during the Vietnam War, the North Vietnamese Army under Võ Nguyên Giáp's command initiated a siege and artillery bombardment on the U.S. Marine Corps base at Khe Sanh, South Vietnam. Historians are divided on whether this was a genuine attempt to repeat their success at Điện Biên Phủ by forcing the surrender of the Marine base, or else a diversion from the rest of the Tết Offensive, or an example of the North Vietnamese Army keeping
+
+Rank [4] - Score [78.09] - Title [Battle of Ngọc Hồi-Đống Đa] [May not contain answer]
+Battle of Ngọc Hồi-Đống Đa Battle of Ngọc Hồi-Đống Đa (; ), also known as Victory of Kỷ Dậu (), was fought between the Tây Sơn dynasty of Vietnam and the Qing dynasty of China in (a place near Thanh Trì) and Đống Đa in northern Vietnam from 1788 to 1789. It is considered one of the greatest victories in Vietnamese military history. Since the 17th century, Vietnam was divided into two parts: the southern part was Đàng Trong or Cochinchina, ruled by Nguyễn lords; the northern part was Đàng Ngoài or Tonkin, ruled by Trịnh lords under the puppet
+
+Rank [5] - Score [78.07] - Title [Battle of Vĩnh Yên] [May not contain answer]
+Battle of Vĩnh Yên The Battle of Vĩnh Yên (), also called Tran Hung Dao Campaign by Vietminh, which occurred from 13 to 17 January 1951, was a major engagement in the First Indochina War between the French Union and the Việt Minh. The French Union forces, led by World War II hero Jean de Lattre de Tassigny, inflicted a decisive defeat on the Việt Minh forces, which were commanded by Võ Nguyên Giáp. The victory marked a turn in the tide of the war, which was previously characterized by a number of Việt Minh victories. By October 1950, the
+
+Rank [6] - Score [77.76] - Title [Battle of Xuân Lộc] [May not contain answer]
+throughout the gates of South Vietnam's Presidential Palace on 30 April 1975, effectively ending the war. From the beginning of 1975, PAVN forces swept through the northern provinces of South Vietnam virtually unopposed. In the Central Highlands, South Vietnam's II Corps Tactical Zone was completely destroyed, whilst attempting to evacuate to the Mekong Delta region. In the cities of Huế and Da Nang, ARVN units simply dissolved without putting up resistance. The devastating defeats suffered by the ARVN prompted South Vietnam's National Assembly to question President Nguyễn Văn Thiệu's handling of the war, thereby placing him under tremendous pressure to
+
+Rank [7] - Score [77.50] - Title [Battle of Phước Long] [May not contain answer]
+South Vietnam to maximise their support of soldiers on the frontline, stabilise the country's internal situation, and increase economic production. Battle of Phước Long The Battle of Phước Long was a decisive battle of the Vietnam War which began on December 12, 1974, and concluded on January 6, 1975. The battle involved the deployment of the People's Army of Vietnam (PAVN) 4th Army Corps for the first time, against determined units of the Army of the Republic of Vietnam (ARVN) in Phước Long in Bình Phước Province near the Cambodian border (to be distinguished from the other Phước Long in
+
+Rank [8] - Score [77.36] - Title [Battle of Vĩnh Yên] [May not contain answer]
+victory would not be easy for either side. Battle of Vĩnh Yên The Battle of Vĩnh Yên (), also called Tran Hung Dao Campaign by Vietminh, which occurred from 13 to 17 January 1951, was a major engagement in the First Indochina War between the French Union and the Việt Minh. The French Union forces, led by World War II hero Jean de Lattre de Tassigny, inflicted a decisive defeat on the Việt Minh forces, which were commanded by Võ Nguyên Giáp. The victory marked a turn in the tide of the war, which was previously characterized by a number
+
+Rank [9] - Score [77.27] - Title [Battle of Dien Bien Phu] [May not contain answer]
+Vietnam into two zones: communist North Vietnam and the State of Vietnam, which opposed the agreement, to the south. The partition was supposed to be temporary, and the two zones were meant to be reunited through national elections in 1956, which were never held. The last French forces withdrew from Vietnam in 1956. General Georges Catroux presided over a commission of inquiry into the defeat. The commission's final report ("Rapport concernant la conduite des opérations en Indochine sous la direction du général Navarre") concluded: The fall of Dien Bien Phu, in a strictly military perspective, represented a very serious failure
+
+Rank [10] - Score [77.24] - Title [Battle of Dien Bien Phu] [May not contain answer]
+bordels mobiles de campagne", ("mobile field brothels"), served by Algerian and Vietnamese women. When the siege ended, the Viet Minh sent the surviving Vietnamese women for "re-education". The Vietnamese Government has stated its casualties in the battle as 4,020 dead, 9,118 wounded and 792 missing. The French estimated Viet Minh casualties at 8,000 dead and 15,000 wounded. Max Hastings stated that "In 2018 Hanoi has still not credibly enumerated its Dienbienphu losses, surely a reflection of their immensity." This battle was depicted in at least three films: It was also mentioned in the Billy Joel song "We Didn't Start the
+
+====================================================================================================
+Query 6: The Temple of Literature (Van Mieu), Vietnam's first university, was built during which dynasty?
+Answer: ['The Ly Dynasty', 'Lý']
+====================================================================================================
+
+Retrieval results:
+
+Rank [1] - Score [86.85] - Title [Temple of Literature, Hanoi] [May contain answer]
+Temple of Literature, Hanoi The Temple of Literature (Vietnamese: "Văn Miếu", Hán-Nôm: 文廟) is a Temple of Confucius in Hanoi, northern Vietnam. The temple hosts the Imperial Academy (, ), Vietnam's first national university. The temple was built in 1070 at the time of Emperor Lý Thánh Tông. It is one of several temples in Vietnam which is dedicated to Confucius, sages and scholars. The temple is located to the south of the Imperial Citadel of Thăng Long. The various pavilions, halls, statues and stelae of doctors are places where offering ceremonies, study sessions and the strict exams of the
+
+Rank [2] - Score [86.51] - Title [Temple of Literature, Hanoi] [May contain answer]
+the country. Temple of Literature, Hanoi The Temple of Literature (Vietnamese: "Văn Miếu", Hán-Nôm: 文廟) is a Temple of Confucius in Hanoi, northern Vietnam. The temple hosts the Imperial Academy (, ), Vietnam's first national university. The temple was built in 1070 at the time of Emperor Lý Thánh Tông. It is one of several temples in Vietnam which is dedicated to Confucius, sages and scholars. The temple is located to the south of the Imperial Citadel of Thăng Long. The various pavilions, halls, statues and stelae of doctors are places where offering ceremonies, study sessions and the strict exams
+
+Rank [3] - Score [85.55] - Title [Temple of Literature, Hanoi] [May not contain answer]
+to ten honoured philosophers. A small museum displays ink wells, pens, books and personal artefacts belonging to some of the students that studied at the temple. In 1076, Emperor Ly Nhan Tong ordered the construction of an imperial academy as a fifth courtyard. Literate mandarins were selected as students. In 1236, the academy was enlarged and named "Quốc Tử Viện" and later "Quốc Học Viện". In the Lê dynasty it was called Thái Học Viện and was developed further. This development included the Minh Luân house, west and east classrooms, a storehouse for wooden printing blocks and two sets of
+
+Rank [4] - Score [84.52] - Title [Temple of Literature, Hanoi] [May not contain answer]
+are the Suc Van gate (Súc Văn Môn) and the Bi Van gate (Bi Văn Môn). These two gates are dedicated to the beauty of literature, both its content and its form. In the first and second courtyards there are topiaries (bushes that are cut into particular shapes) that represent the 12 zodiac animals. One enters the third courtyard from the Khue Van pavilion. In the third courtyard is the Thien Quang well (Thiên Quang Tỉnh). On either side of the well stand two great halls which house the treasures of the temple. In 1484, the Emperor Lê Thánh Tông
+
+Rank [5] - Score [84.36] - Title [Temple of Literature, Hanoi] [May contain answer]
+place in 1920, 1954 and 2000. In 1076, Vietnam's first university, the "Quốc Tử Giám" or Imperial Academy, was established within the temple during the reign of Lý Nhân Tông to educate Vietnam's bureaucrats, nobles, royalty, and other members of the elite. The university remained open from 1076 to 1779. In 1802, the Nguyễn dynasty's monarchs founded the Huế capital where they established a new imperial academy. The academy at the Hanoi temple lost its prominence and became a school of the Hoài Đức District. Under the French protectorate, the Văn Miếu - Quốc Tử Giám was registered as a
+
+Rank [6] - Score [83.62] - Title [Temple of Literature, Hanoi] [May not contain answer]
+82 triennial royal exams. Between 1442 and 1779, eighty-one exams were held by the Lê dynasty and one was held by the Mạc dynasty. The ancient Chinese engravings on each stele praise the merits of the monarch and cite the reason for holding royal exams. They also record the mandarins who were tasked with organising the exams. It used to be common to rub the stone turtles' heads, but now there is a fence that is meant to prevent people from doing this in order to preserve the turtles. One enters the fourth courtyard through the Dai Thanh gate ("Đại
+
+Rank [7] - Score [83.34] - Title [Temple of Literature, Hanoi] [May not contain answer]
+Đại Việt took place. The temple is featured on the back of the 100,000 Vietnamese đồng banknote. Just before the Vietnamese New Year celebration Tết, calligraphists will assemble outside the temple and write wishes in Hán characters. The art works are given away as gifts or are used as home decorations for special occasions. <br>The temple was built in 1070 and was reconstructed during the Trần dynasty (1225–1400) and in the subsequent dynasties. For nearly two centuries, despite wars and disasters, the temple has preserved ancient architectural styles of many dynasties as well as precious relics. Major restorations have taken
+
+Rank [8] - Score [83.03] - Title [Temple of Literature, Hanoi] [May not contain answer]
+erected 116 steles of carved blue stone turtles with elaborate motifs to honour talent and encourage study. The Turtle (Quy, 龜) is one of the nation's four holy creatures - the others are the Dragon (Long, 龍), the Unicorn (Ly, 麟) and the Phoenix (Phượng, 鳳). The turtle is a symbol of longevity and wisdom. The shape and size of the turtle changed with the passage of time. The doctors' steles are a valuable historical resource for the study of culture, education and sculpture in Vietnam. 82 stelae remain. They depict the names and birth places of 1307 graduates of
+
+Rank [9] - Score [82.85] - Title [Temple of Literature, Hanoi] [May contain answer]
+instruction and learning at the Imperial Academy began in 1076 under the Lý dynasty and was further developed in the 15th century under the Le dynasty. The academy was headed by a rector ("Tế tửu") and a vice-rector ("Tư nghiệp"). The professors of the academy held different titles: "Giáo thụ", "Trực giảng", "Trợ giáo" and "Bác sĩ". Many students lived and studied at the Temple. Most students ("Giám sinh") had passed the regional exam (Hương Examination - "Thi Hương") before enrolling at the academy. During the course of study at the academy, the students focused on discussion of literature and
+
+Rank [10] - Score [81.47] - Title [Literary Chinese in Vietnam] [May contain answer]
+938, it continued to use Literary Chinese. At first Buddhist monks dominated government and scholarship in the country. The earliest extant writings by Vietnamese authors are poems from the late 10th century, in Chinese, by the Buddhist monks Lac Thuan and Khuông Việt. After three short-lived dynasties, the Ly Dynasty (1009–1225) was established with the support of Buddhist clergy. When the first king moved the capital to Hanoi in the following year, he issued the 110-character "Edict on the Transfer of the Capital". Confucian influence grew over the course of the dynasty, with a Confucian Temple of Literature being erected
+
+====================================================================================================
+Query 7: What is the speed of light?
+Answer: ['299,792,458', '299 792 458']
+====================================================================================================
+
+Retrieval results:
+
+Rank [1] - Score [84.42] - Title [Speed of light] [May not contain answer]
+Speed of light The speed of light in vacuum, commonly denoted , is a universal physical constant important in many areas of physics. Its exact value is (approximately ). It is exact because by international agreement a metre is defined to be the length of the path travelled by light in vacuum during a time interval of 1/299792458 second. According to special relativity, is the maximum speed at which all conventional matter and hence all known forms of information in the universe can travel. Though this speed is most commonly associated with light, it is in fact the speed at
+
+Rank [2] - Score [84.05] - Title [Speed of light] [May not contain answer]
+light to a "complete standstill" by passing it through a Bose–Einstein condensate of the element rubidium, one team at Harvard University and the Rowland Institute for Science in Cambridge, Mass., and the other at the Harvard–Smithsonian Center for Astrophysics, also in Cambridge. However, the popular description of light being "stopped" in these experiments refers only to light being stored in the excited states of atoms, then re-emitted at an arbitrarily later time, as stimulated by a second laser pulse. During the time it had "stopped," it had ceased to be light. This type of behaviour is generally microscopically true of
+
+Rank [3] - Score [83.58] - Title [Speed of light] [May not contain answer]
+opposed to instantaneously) by studying the apparent motion of Jupiter's moon Io. In 1865, James Clerk Maxwell proposed that light was an electromagnetic wave, and therefore travelled at the speed appearing in his theory of electromagnetism. In 1905, Albert Einstein postulated that the speed of light with respect to any inertial frame is a constant and is independent of the motion of the light source. He explored the consequences of that postulate by deriving the theory of relativity and in doing so showed that the parameter had relevance outside of the context of light and electromagnetism. After centuries of increasingly
+
+Rank [4] - Score [83.58] - Title [Speed of light] [May not contain answer]
+systems of natural units of measurement or the geometrized unit system where . Using these units, does not appear explicitly because multiplication or division by 1 does not affect the result. The speed at which light waves propagate in vacuum is independent both of the motion of the wave source and of the inertial frame of reference of the observer. This invariance of the speed of light was postulated by Einstein in 1905, after being motivated by Maxwell's theory of electromagnetism and the lack of evidence for the luminiferous aether; it has since been consistently confirmed by many experiments. It
+
+Rank [5] - Score [83.34] - Title [Faster-than-light] [May not contain answer]
+Faster-than-light Faster-than-light (also superluminal or FTL) communication and travel are the conjectural propagation of information or matter faster than the speed of light. The special theory of relativity implies that only particles with zero rest mass may travel at the speed of light. Tachyons, particles whose speed exceeds that of light, have been hypothesized, but their existence would violate causality, and the consensus of physicists is that they cannot exist. On the other hand, what some physicists refer to as "apparent" or "effective" FTL depends on the hypothesis that unusually distorted regions of spacetime might permit matter to reach distant
+
+Rank [6] - Score [83.33] - Title [Speed of light] [May not contain answer]
+from 1 is negligible for speeds much slower than "c", such as most everyday speeds—in which case special relativity is closely approximated by Galilean relativity—but it increases at relativistic speeds and diverges to infinity as "v" approaches "c". For example, a time dilation factor of "γ" = 2 occurs at a relative velocity of 86.6% of the speed of light ("v" = .866"c"). Similarly, a time dilation factor of "γ" = 10 occurs at "v" = 99.5% "c". The results of special relativity can be summarized by treating space and time as a unified structure known as spacetime (with "c
+
+Rank [7] - Score [83.17] - Title [Speed] [May not contain answer]
+speed in everyday usage is the kilometre per hour or, in the US and the UK, miles per hour. For air and marine travel the knot is commonly used. The fastest possible speed at which energy or information can travel, according to special relativity, is the speed of light in a vacuum "c" = metres per second (approximately or ). Matter cannot quite reach the speed of light, as this would require an infinite amount of energy. In relativity physics, the concept of rapidity replaces the classical idea of speed. Italian physicist Galileo Galilei is usually credited with being the
+
+Rank [8] - Score [83.08] - Title [Speed of light] [May not contain answer]
+zero, "γ" is equal to one, giving rise to the famous formula for mass–energy equivalence. The "γ" factor approaches infinity as "v" approaches "c", and it would take an infinite amount of energy to accelerate an object with mass to the speed of light. The speed of light is the upper limit for the speeds of objects with positive rest mass, and individual photons cannot travel faster than the speed of light. This is experimentally established in many tests of relativistic energy and momentum. More generally, it is normally impossible for information or energy to travel faster than "c". One
+
+Rank [9] - Score [82.94] - Title [Speed of light] [May not contain answer]
+book "Opticks", Isaac Newton reported Rømer's calculations of the finite speed of light and gave a value of "seven or eight minutes" for the time taken for light to travel from the Sun to the Earth (the modern value is 8 minutes 19 seconds). Newton queried whether Rømer's eclipse shadows were coloured; hearing that they were not, he concluded the different colours travelled at the same speed. In 1729, James Bradley discovered stellar aberration. From this effect he determined that light must travel 10,210 times faster than the Earth in its orbit (the modern figure is 10,066 times faster) or,
+
+Rank [10] - Score [82.92] - Title [Speed of light] [May not contain answer]
+precise measurements, in 1975 the speed of light was known to be with a measurement uncertainty of 4 parts per billion. In 1983, the metre was redefined in the International System of Units (SI) as the distance travelled by light in vacuum in 1/ of a second. The speed of light in vacuum is usually denoted by a lowercase , for "constant" or the Latin (meaning "swiftness, celerity"). In 1856, Wilhelm Eduard Weber and Rudolf Kohlrausch had used for a different constant later shown to equal times the speed of light in vacuum. Historically, the symbol "V" was used as
+
+====================================================================================================
+Query 8: What is ESL mean?
+Answer: ['English-as-a-second-language']
+====================================================================================================
+
+Retrieval results:
+
+Rank [1] - Score [85.77] - Title [ESL Incorporated] [May not contain answer]
+The company employed a large technical staff, most of them holding advanced academic degrees. The company was founded from a small incubator space on Fabian Way in Palo Alto, California, where it remained until about 85 employees in size. The first major expansion took place about 1969, when a staged facility complex in Sunnyvale, California on Java Drive was initiated. within Moffett Industrial Park, which yielded a decade later about of space for laboratories and research/development activity. The early line management team included Perry as chief executive; Robert Fossum (later director of the Defense Advanced Research Projects Agency), director of
+
+Rank [2] - Score [83.18] - Title [Electronic system-level design and verification] [May not contain answer]
+Electronic system-level design and verification Electronic system level (ESL) design and verification is an electronic design methodology, focused on higher abstraction level concerns. The term "Electronic System Level" or "ESL Design" was first defined by Gartner Dataquest, an EDA-industry-analysis firm, on February 1, 2001. It is defined in "ESL Design and Verification" as: "the utilization of appropriate abstractions in order to increase comprehension about a system, and to enhance the probability of a successful implementation of functionality in a cost-effective manner." The basic premise is to model the behavior of the entire system using a high-level language such as C,
+
+Rank [3] - Score [81.99] - Title [English as a second or foreign language] [May not contain answer]
+group. In the UK and Ireland, the term "EAL" (English as an additional language) is used, rather than ESOL, when talking about primary and secondary schools, in order to clarify that English is not the students' first language, but their second or third. The term ESOL is used to describe English language learners who are above statutory school age. Other acronyms were created to describe the person rather than the language to be learned. The term Limited English proficiency (LEP) was first used in 1975 by the Lau Remedies following a decision of the U.S. Supreme Court. ELL (English Language
+
+Rank [4] - Score [80.92] - Title [ESL Incorporated] [May not contain answer]
+systems analysis; Donald Wolfe, director of hardware; Michael Hogan, director of environmental systems and Paul Scheibe, director of technology. By 1988 there were 9 buildings housing the over 3000 employees. For optical systems ESL developed one of the first digital image processing capabilities for aerial photography (both satellite and aircraft platforms). Various radio frequencies are also addressed in order to create a comprehensive capability in signal processing for a variety of listening devices. Tools developed emphasize the real time interaction of interpreters in order to facilitate rapid use of data intercepted. A primary mission of reconnaissance work was support of
+
+Rank [5] - Score [80.83] - Title [English as a second or foreign language] [May not contain answer]
+word "a" in the phrase "a second language" means there is no presumption that English is "the" second acquired language (see also "Second language"). "TESL" is the teaching of English as a second language. There are also other terms that it may be referred to in the US including: ELL (English Language Learner) and CLD (Culturally and Linguistically Diverse). In the UK and Ireland, the term ESL has been replaced by "ESOL" (English for speakers of other languages). In these countries "TESOL" (teaching English to speakers of other languages) is normally used to refer to teaching English only to this
+
+Rank [6] - Score [80.72] - Title [ESL Incorporated] [May not contain answer]
+developed to withstand severe environmental and reliability tests; some systems include multiple airborne and ground-based receivers. One of the early data communications systems developed was a multi-channel ultra high frequency digital data link, whose innovation was its ability to be conveyed over a single standard military voice channel. In 1972 the company developed one of the first commercial grade telephone to computer data modem devices. The company developed the first software for interpreting renal isograms in the diagnosis of Renovascular hypertension, working in conjunction with physicians practicing in the kidney disease diagnostics field. For NASA, image processing research has been
+
+Rank [7] - Score [80.17] - Title [ESL Incorporated] [May not contain answer]
+used to interpret satellite photos, including some of the earliest work of this type. The environmental systems division has developed specialized mathematical models for air quality, environmental noise and water pollution topics, gaining note for developing early line source models used in certain environmental litigation. The company underwent a successful public offering of its common stock underwitten by Hambrecht & Quist in the mid 1970s with shares thereafter trading on the NASDAQ exchange. In 1978 a merger was consummated with TRW Inc. to merge ESL with TRW, the latter being a large defense contractor in the USA. In 2001, TRW
+
+Rank [8] - Score [80.13] - Title [Chinatown ESL] [May contain answer]
+Wendy Pang, Angela Tsang, Julia Twarog, Yanjun Wang, Sherra Wong, Yipeng "Woodie" Zhao 2002: Dennis Hsieh, Margaret Hsieh, Mihuan Li, Elissa Sato, Rebecca Starr, Julia Twarog, Alice Yang, Yipeng "Woodie" Zhao, Amy Zhai 2001: Frances Chen, Dennis Hsieh, Elissa Sato, Alice Yang 1999: Sophia Chiu, Julie Harms, Reggie Harris, Jennifer Liu, Janson Wu Chinatown ESL Chinatown ESL is a public service program under the Chinatown Committee of Harvard's undergraduate service organization, the Phillips Brooks House Association. It is an English-as-a-Second-Language program serving the Chinese immigrant population of Greater Boston. The students range from newly immigrated working adults to senior citizens.
+
+Rank [9] - Score [79.96] - Title [English as a second or foreign language] [May not contain answer]
+ELT training, etc. Teaching English as a second language (TESL), teaching English to speakers of other languages (TESOL), and teaching English as a foreign language (TEFL) are also used. Other terms used in this field include English as an international language (EIL), English as a lingua franca (ELF), English for special purposes and English for specific purposes (ESP), and English for academic purposes (EAP). Those who are learning English are often referred to as English language learners (ELL). "EFL", English as a foreign language, indicates the teaching of English in a non–English-speaking region. Study can occur either in the student's
+
+Rank [10] - Score [79.65] - Title [Education for librarianship] [May not contain answer]
+Elective courses may include information management, children's literature, genealogy and archives as well as specialized courses related to different types of libraries. In recent decades, many schools offering librarianship education have changed their names to reflect the shift from print media to electronic media, and to information contained outside of traditional libraries. Some call themselves schools of library and information science (abbreviated to "SLIS", hence the term "SLISters" for their students), while others may have dropped the word "library" altogether. This trend began as early as the 1960s with the recognition that information and access to it was shifting to
+
+====================================================================================================
+Query 9: What is the latest iphone version?
+Answer: ['XS', 'XS max', 'XR']
+====================================================================================================
+
+Retrieval results:
+
+Rank [1] - Score [81.23] - Title [IPhone] [May contain answer]
+was released alongside the 8 and 8 Plus, with its highlights being a near bezel-less design, an improved camera and a new facial recognition system, named Face ID, but having no home button, and therefore, no Touch ID. In September 2018, Apple again released 3 new iPhones, which are the iPhone XS, an upgraded version of the since discontinued iPhone X, iPhone XS Max, a larger variant with the series' biggest display and iPhone XR, a lower end version of the iPhone X. The original iPhone was described as "revolutionary" and a "game-changer" for the mobile phone industry. Subsequent iterations
+
+Rank [2] - Score [81.01] - Title [IPhone] [May not contain answer]
+featured the removal of the 3.5mm headphone jack from the iPhone. On September 12, 2017, Apple officially unveiled the iPhone 8 and 8 Plus, which features a new glass design, camera improvements, a True Tone display, wireless charging and improved system performance. It also unveiled the iPhone X, which features a near bezel-less design, a facial recognition feature dubbed "Face ID" with facial tracking used for Animojis, an OLED screen with the highest pixel density on an iPhone, a new telephoto lens which works better in low light conditions, and improved cameras for AR. On September 12, 2018, Apple officially
+
+Rank [3] - Score [80.71] - Title [IOS] [May not contain answer]
+later, over-the-air. The latest version is iOS 12, released on September 17, 2018. It is available for iPhone 5S and later, iPad Air and later, iPad Pro, iPad Mini 2 and later, and sixth-generation iPod Touch. Originally, iPod Touch users had to pay for system software updates. This was due to accounting rules making the device not a "subscription device" like iPhone or Apple TV, and significant enhancements to the device required payments. The requirement to pay to upgrade caused iPod Touch owners to stay away from updates. However, in September 2009, a change in accounting rules won tentative approval,
+
+Rank [4] - Score [79.81] - Title [Oppo phones] [May not contain answer]
+The Oppo A3 was made available in Taiwan in June 2018. In June 2018, Oppo announced the Oppo A73s (also known as Realme 1) in Taiwan. It is powered by a 2.0Ghz octa-core MediaTek Helio P60 processor, with a 6.0-inch FHD+ 18:9 fullscreen display. Notable features includes the improved AI beautification and the AI scene recognition. In July 2018, Oppo announced the Oppo A3s (also called Realme C1). Notable features on the A3s includes a 6.2" display, Qualcomm Snapdragon 450 chipset, Face Unlock Feature, AI Beauty 2.0, bigger 4230 mAh Battery, and Dual Cameras. The Oppo Find 5 was released
+
+Rank [5] - Score [79.64] - Title [Android Oreo] [May not contain answer]
+Android Oreo Android "Oreo" (codenamed Android O during development) is the eighth major update and the 15th version of the Android operating system. It was first released as an alpha quality developer preview in March 2017 and released to the public on August 21, 2017. It contains a number of major features, including notification grouping, picture-in-picture support for video, performance improvements and battery usage optimization, and support for autofillers, Bluetooth 5, system-level integration with VoIP apps, wide color gamuts, and Wi-Fi Aware. Android Oreo also introduces two major platform features: Android Go – a software distribution of the operating system
+
+Rank [6] - Score [79.52] - Title [Apple Inc.] [May not contain answer]
+2018 after being delayed from its initial December 2017 release. It also features 7 tweeters in the base, a four-inch woofer in the top, and six microphones for voice control and acoustic optimization On September 12, 2018, Apple announced that HomePod is adding new features—search by lyrics, set multiple timers, make and receive phone calls, Find My iPhone, Siri Shortcuts—and Siri languages. Apple develops its own operating systems to run on its devices, including macOS for Mac personal computers, iOS for its iPhone, iPad and iPod Touch smartphones and tablets, watchOS for its Apple Watch smartwatches, and tvOS for its
+
+Rank [7] - Score [79.51] - Title [IPhone 6S] [May not contain answer]
+captures a short video alongside each photo taken. The iPhone 6S supports iOS 12, which was first released on September 17, 2018. Nilay Patel of "The Verge" described the 6S, in particular the Plus model, as "right now the best phone on the market. ... There just aren't other companies that can roll out a feature like 3D Touch and make it work in a way that suggests the creation of entirely new interface paradigms, and every other phone maker needs to figure out exactly why Apple's cameras are so consistent before they can really compete." Samuel Gibbs of "The
+
+Rank [8] - Score [79.46] - Title [HTC 10] [May not contain answer]
+The HTC 10 features a dedicated DAC (Digital Audio Converter) provided by Qualcomm. The HTC 10 runs Android 6.0 Marshmallow with the HTC Sense 8.0 skin. HTC updated unlocked handsets to Android 7.0 Nougat on November 25, 2016. The unlocked HTC 10 received the Android 8.0 Oreo update in early 2018. The HTC 10 received generally positive reviews. In its review of the phone, CNET gave the device a 4 out of 5, supporting the design of the phone, the "brilliant audio quality", and the customizable user interface, while criticizing the phone's camera and battery life. The Verge gave the
+
+Rank [9] - Score [79.40] - Title [IPhone XR] [May contain answer]
+received an updated version of iOS 12.1 one week after its initial release for devices that did not have the update installed prior. IPhone XR iPhone XR (stylized as iPhone X🅁, Roman numeral "X" pronounced "ten", although colloquially, sometimes pronounced as the name of the letter) is a smartphone designed and manufactured by Apple, Inc. It is the twelfth generation of the iPhone. It was announced by Apple CEO Tim Cook on September 12, 2018, at Steve Jobs Theater in the Apple Park campus, alongside the higher-priced iPhone XS and iPhone XS Max. Pre-orders began on October 19, 2018, with
+
+Rank [10] - Score [79.37] - Title [Android Pie] [May not contain answer]
+Android Pie Android 9 "Pie" (codenamed Android P during development) is the ninth major update and the 16th version of the Android operating system. It was first released as an alpha quality developer preview in March 2018 and released to the public on August 6, 2018. Android Pie, then referred to as "Android P," was first announced by Google on March 7, 2018, and the first developer preview was released on the same day. The second preview, considered beta quality, was released on May 8, 2018. The third preview, called Beta 2, was released on June 6, 2018. The fourth
+
